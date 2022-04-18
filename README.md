@@ -31,12 +31,11 @@
 【报名截止: 2022.6.30】[天津大学TANKLab 2023级导师团及特招直博生招新](https://mp.weixin.qq.com/s?srcid=0328TrVBOLBU7UuOZhHctIdf&scene=23&sharer_sharetime=1648461969548&mid=2247485718&sharer_shareid=13a0869e2dfd7c9b03339911eb553922&sn=23bc73443c1c9673ce2301101963930b&idx=1&__biz=MzI5MTQwNTAwMg%3D%3D&chksm=ec1064b3db67eda590df3a9514b87316c28089d7aae5acf22c50ee8fbcc277dc13fdd1862eb2&mpshare=1#rd)
 
 # 南开大学
-[计算机视觉团队](https://cv.nankai.edu.cn/)
+【报名截止: 暂无】[计算机视觉团队](https://cv.nankai.edu.cn/)
 
-
+# 软件所
+【报名截止: 暂无】中科院软件所中文信息处理实验室
 
 # 致谢
 来自绿群的消息更新，原仓库在这里。[CSSummerCamp2022](https://github.com/LinghaoChan/CSSummerCamp2022)
-有些是我自己看到的，绿群仓库有一阵子没更新了hhh
-
 
