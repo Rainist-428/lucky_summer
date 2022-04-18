@@ -3,7 +3,7 @@
 > 简单总结一下自己找到的各个大学的cs保研信息 自己记录一下啥的
 > 
 
-@[TOC](文章目录)
+
 
 ---
 
@@ -34,8 +34,9 @@
 【报名截止: 暂无】[计算机视觉团队](https://cv.nankai.edu.cn/)
 
 # 软件所
-【报名截止: 暂无】中科院软件所中文信息处理实验室
+【报名截止: 暂无】[中科院软件所中文信息处理实验室](http://www.icip.org.cn/zh/2022/04/11/recruit/)
 
 # 致谢
 来自绿群的消息更新，原仓库在这里。[CSSummerCamp2022](https://github.com/LinghaoChan/CSSummerCamp2022)
+有时候比绿群更新的快
 
