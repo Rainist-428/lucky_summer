@@ -37,4 +37,6 @@
 
 # 致谢
 来自绿群的消息更新，原仓库在这里。[CSSummerCamp2022](https://github.com/LinghaoChan/CSSummerCamp2022)
+有些是我自己看到的，绿群仓库有一阵子没更新了hhh
+
 
